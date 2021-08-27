@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "full test",
+      "setup": "sudo -H pip3 install bs4",
+      "run": "python test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
